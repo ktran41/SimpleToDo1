@@ -38,7 +38,7 @@ The emulator caused the app to crash several times when attempting to delete ite
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Kaitlin Tran]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

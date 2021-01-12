@@ -32,13 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
 The emulator caused the app to crash several times when attempting to delete items by long click.
 
 ## License
 
-    Copyright [2020] [Kaitlin Tran]
+    Copyright 2020 Kaitlin Tran
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
